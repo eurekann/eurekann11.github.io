@@ -1,0 +1,19 @@
+body {
+  background-image: url("backround.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.navbar {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.navbar a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
